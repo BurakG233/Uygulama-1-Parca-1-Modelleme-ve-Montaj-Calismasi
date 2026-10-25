@@ -14,3 +14,5 @@ Bu çalışmada SolidWorks 2020 üzerinde çizgi komutunu ve akıllı ölçeklen
 - Çizim görseli – Ölçülendirilmiş çizimin ekran görüntüsü
 
 Bu çalışmayla birlikte SolidWorks'te çizim yapma ve ölçülendirme konusunda pratik yaptım.
+
+![Parça 1 Çizimi](./Parca1.png)
